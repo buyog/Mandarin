@@ -1,0 +1,93 @@
+Mandarin WIP page; obviously still a lot to be done!
+
+McCready's original notes:
+ 1-iceman - raio de gelo ....special, stand = freezes
+ 2- mukai - Mental Paralysis.... hyper level 1, stand, = paralizes P2 and hits him on walls and floor
+ 3------- Electro Blast....special, stand = shock
+ 4-dhalsim - fire blast.... special, crouch = burns
+ 5------- Holographic Illusions.... especial = creates 2 cópias...the 3 attack.(real one that hits is determined by button)
+ 6- Thanos - Light Blast.... special, stand = hitwall
+ 7 -bishamon - black light.... hyper level 1 = screen goes dark(palfx) and mandarin get's in custom combo mode
+ 8- bishamon - desintegration beam.... hyper level 3 = hit
+ 9------- vortex ring (flight).... flight mode
+10- bishamon - force blast.... hyper level 1, stand, air = hit
+11- rikuo - sonic beam.... special, air = makes P2 dizzy
+12- magneto - magnetic waves.... hyper level 1= like magneto's
+13------- teleportation.... special
+14- fumaca_roxa.gif - poison gas.... hyper level 1 = P2 loses energy lil by lil
+15- mukai - solidify gas.... special = rocks appear on air and fall (different distances)
+16------- force field generator.... special = superblock, repels P2
+
+
+Basics still missing:
+* fwd/back jumps
+* spunch2
+* skick1 / skick2
+* all air basics
+* all crouching basics
+* most get-hits
+
+Specials to do:
+- freezing ray -- stand = freezes
+- electro blast -- stand = shock
+- flare burst -- crouch = burns
+- Holographic Illusions = creates 2 cópias...the 3 attack.(real one that hits is determined by button)
+- Light Blast -- stand = hitwall
+- sonic wave -- air = makes P2 dizzy
+- teleport
+- solidify gas = rocks appear on air and fall (different distances)
+- force field generator = superblock, repels P2
+
+Hypers to do:
+- Mental Paralysis.... hyper level 1, stand, = paralizes P2 and hits him on walls and floor
+- black light.... hyper level 1 = screen goes dark(palfx) and mandarin get's in custom combo mode
+- desintegration beam.... hyper level 3 = hit
+- vortex ring (flight).... flight mode
+- force blast.... hyper level 1, stand, air = hit
+- magnetic waves.... hyper level 1= like magneto's
+- poison gas.... hyper level 1 = P2 loses energy lil by lil
+
+
+Bugs to fix:
+- P2 locator arrow is missing
+
+
+
+=================================================
+TODOs as of Jan2013:
+
+Basics still missing
+	fwd/back jumps
+	standing medium punch
+	weak & medium standing kick
+	all air & crouching basics =P
+	finish the rest of the get-hits
+Specials
+	freezing ray -- stand = freezes
+	electro blast -- stand = shocks
+	flare burst -- crouch = burns
+	holographic illusions = creates 2 doppelgangers...the 3 attack (the real one that hits is determined by button)
+	light blast -- stand = knocks P2 back to the wall
+	sonic wave -- air = makes P2 dizzy
+	teleport
+	solidify gas = rocks appear on air and fall (different distances)
+	force field generator = superblock, repels P2
+Hypers
+	Mental Paralysis.... hyper level 1, stand, = paralyzes P2 and hits him on walls and floor
+	black light.... hyper level 1 = screen goes dark(palfx) and mandarin gets in custom combo mode
+	desintegration beam.... hyper level 3 = big beam
+	vortex ring (flight).... flight mode
+	force blast.... hyper level 1, stand, air = hit w/ knockback
+	magnetic waves.... hyper level 1 = like Magneto's
+	poison gas.... hyper level 1 = P2 loses energy by degrees
+
+
+
+---------------------------
+Work done:
+
+
+
+---------------------------
+Feedback:
+
